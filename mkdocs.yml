@@ -1,7 +1,7 @@
 site_name: Mobile Robotics Developer Manual
 
-repo_name: roboticslab-uc3m/mobile-robotics-developer-manual
-repo_url: https://github.com/roboticslab-uc3m/soft-robotics-developer-manual
+repo_name: Mobile-Robots-Group-UC3M/MobileRobotsDocumentation
+repo_url: https://github.com/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation
 edit_uri: blob/master/docs/
 
 theme:
