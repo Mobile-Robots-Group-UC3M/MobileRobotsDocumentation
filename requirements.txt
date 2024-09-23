@@ -7,4 +7,5 @@ mkdocs-include-markdown-plugin
 mkdocs-autorefs
 mkdocs-mermaid2-plugin
 mkdocs-pdf
+mkdocs-table-reader-plugin
 pymdown-extensions
