@@ -1,8 +1,8 @@
 [![roboticslab-uc3m logo](docs/fig/roboticslab-banner-350px.png)](https://github.com/roboticslab-uc3m)
 
-# Soft-Robotics Developer Manual
+# Mobile Robots Developer Manual
 
-Developer manual for the [Soft Robotics](http://roboticslab.uc3m.es/roboticslab/researchtopic/soft-robotics) research group at [roboticslab-uc3m](https://github.com/roboticslab-uc3m).
+Developer manual for the [Mobile Robotics](http://roboticslab.uc3m.es/roboticslab/researchtopic/soft-robotics) research group at [roboticslab-uc3m](https://github.com/roboticslab-uc3m).
 
 Currently hosted at <https://robots.uc3m.es/soft-robotics-developer-manual/>
 
