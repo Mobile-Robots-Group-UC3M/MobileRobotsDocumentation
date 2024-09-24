@@ -4,15 +4,15 @@
 Oficial site for the [Mobile Robotics](https://mobile-robots-group-uc3m.github.io/MobileRobotsDocumentation) research group of the [RoboticsLab](https://github.com/roboticslab-uc3m) belonging to the University Carlos III of Madrid.
 ## *Welcome to the Mobile Robots Laboratory*
 
-In the *Mobile Robots Group*, we focus on developing robotics projects applied to real-world tasks, aiming to unify some of the main research areas in robotics, such as **navigation, vision, manipulation, and grasping**. To achieve this, we develop our own algorithms in this lab that allow us to operate in real environments, taking into account the surrounding elements and ensuring safe operations to assist people. Our main contributions are focused on indoor environments, specifically for tasks that help the elderly or dependent individuals. To carry out these tasks, we have our own platform, **ADAM (Ambidextrous Domestic Autonomous Manipulator)**, on which we base all our work and test it in real settings.
+In the *Mobile Robots Group*, we focus on developing robotics projects applied to real-world tasks, aiming to unify some of the main research areas in robotics, such as **navigation, vision, manipulation, and grasping**. To achieve this, we develop our own algorithms in this lab that allow us to operate in real environments, taking into account the surrounding elements and ensuring safe operations to assist people. Our main contributions are focused on indoor environments, specifically for tasks that help the elderly or dependent individuals. To carry out these tasks, we have our own platform, [**ADAM (Ambidextrous Domestic Autonomous Manipulator)**](./ADAM/), on which we base all our work and test it in real settings.
 
-## Latest News
+## *Latest News*
 
-### If you have any doubts or comments
+### *If you have any doubts or comments*
 
 In case of any questions or improvements to be made to this repository, feel free to comment on a [new issue](https://github.com/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation/issues).
 
-### License
+### *License*
 [![GitHub issues](https://img.shields.io/github/issues/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 
