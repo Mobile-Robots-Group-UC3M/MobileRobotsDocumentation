@@ -64,19 +64,7 @@ nav:
 - Vision: Vision/demo.md
 - Manipulation: Manipulation/demo.md
 - Grasping: Grasping/demo.md
-- MOCAP:
-  - mocap/README.md
-  - Demo: mocap/demo.md
-# - diagrams.md
-# - tables.md
-# - dynamic-information.md
-# - switches-and-power.md
-# - connectors.md
-# - network-information.md
-# - driver-check-procedure.md
-# - demo-procedure.md
-# - additional-resources.md
-# - contributors.md
+- Simulation: Simulation/demo.md
 
 use_directory_urls: false
 

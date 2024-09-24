@@ -7,11 +7,11 @@ ADAM is a robot designed to perform everyday tasks for people who have difficult
 
 [**Vision**](../Vision/demo.md): ADAM is equipped with cameras and LIDAR sensors that allow it to perceive its surroundings and interact with them.
 
-[**Manipulation**]((../Manipulation/demo.md)): ADAM has two robotic arms that allows it to interact with objects in its environment.
+[**Manipulation**](../Manipulation/demo.md): ADAM has two robotic arms that allows it to interact with objects in its environment.
 
-**Grasping**: ADAM has a gripper that allows it to grasp objects and manipulate them.
+[**Grasping**](../Grasping/demo.md): ADAM has a gripper that allows it to grasp objects and manipulate them.
 
-**Simulation** ADA is equipped with a simulation environment that allows it to test its algorithms in a virtual environment before deploying them in the real world.
+**Simulation** ADAM is equipped with a simulation environment that allows it to test its algorithms in a virtual environment before deploying them in the real world.
 
 [![adam all](../fig/AdamCapa.png)](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1337608/full)
 
