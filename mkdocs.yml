@@ -1,4 +1,4 @@
-site_name: Mobile Robotics Oficial Site
+site_name: Mobile Robots Oficial Site
 
 repo_name: Mobile-Robots-Group-UC3M/MobileRobotsDocumentation
 repo_url: https://github.com/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation
@@ -55,10 +55,11 @@ exclude_docs: |
 
 nav:
 - Home: README.md
-#- Cognitive Architecture: architecture.md
+- About Us: about/about.md
 - ADAM:
   - ADAM/README.md
   - ADAM v1.0: ADAM/ADAM_v1.0.md
+  - ADAM v2.0: ADAM/ADAM_v2.0.md
 - Soft Gripper:
   - softgripper/README.md
   - Demo: softgripper/demo.md
