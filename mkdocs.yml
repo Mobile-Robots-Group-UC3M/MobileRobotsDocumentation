@@ -43,11 +43,11 @@ extra:
     - icon: material/web
       link: http://roboticslab.uc3m.es/
     - icon: fontawesome/brands/github
-      link: https://github.com/roboticslab-uc3m
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/uc3mRoboticsLab
+      link: https://github.com/Mobile-Robots-Group-UC3M
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mobile-robots-uc3m/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@RoboticsLabUC3M
+      link: https://www.youtube.com/@MobileRobotsUC3M
 
 exclude_docs: |
   fig/README.md
