@@ -1,8 +1,8 @@
-# Soft Neck Related Content
+# ADAM (Ambidextrous Domestic Autonomous Manipulator)
 
 The following sections contain comprehensive guides and documentation for the soft neck.
 
-* [Demo](demo.md)
+* [ADAM v1.0](ADAM_v1.0.md)
 
 #### List of publications:
  
