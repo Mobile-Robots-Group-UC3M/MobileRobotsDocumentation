@@ -7,7 +7,7 @@ Oficial site for the [Mobile Robotics](https://mobile-robots-group-uc3m.github.i
 In the *Mobile Robots Group*, we focus on developing robotics projects applied to real-world tasks, aiming to unify some of the main research areas in robotics, such as **navigation, vision, manipulation, and grasping**. To achieve this, we develop our own algorithms in this lab that allow us to operate in real environments, taking into account the surrounding elements and ensuring safe operations to assist people. Our main contributions are focused on indoor environments, specifically for tasks that help the elderly or dependent individuals. To carry out these tasks, we have our own platform, [**ADAM (Ambidextrous Domestic Autonomous Manipulator)**](./ADAM/), on which we base all our work and test it in real settings.
 
 <p align="center">
-  <img src="fig/gifAdam.gif" style="max-width: auto; height: 500;" />
+  <img src="fig/gifAdam.gif" style="max-width: auto; height: auto;" />
 </p>
 
 ## *Latest News*

@@ -60,19 +60,12 @@ nav:
   - ADAM/README.md
   - ADAM v1.0: ADAM/ADAM_v1.0.md
   - ADAM v2.0: ADAM/ADAM_v2.0.md
-- Soft Gripper:
-  - softgripper/README.md
-  - Demo: softgripper/demo.md
-  - ElectroMechanical Data: softgripper/motors.md
-- Origami:
-  - origami/README.md
-  - Demo: origami/demo.md
+- Navigation: Navigation/demo.md
+- Vision: Vision/demo.md
+- Manipulation: Manipulation/demo.md
 - Roberto:
   - roberto/README.md
   - Demo: roberto/demo.md
-- Instron:
-  - instron/README.md
-  - Demo: instron/demo.md
 - MOCAP:
   - mocap/README.md
   - Demo: mocap/demo.md

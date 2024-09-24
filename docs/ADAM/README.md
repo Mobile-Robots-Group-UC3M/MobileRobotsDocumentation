@@ -1,14 +1,25 @@
 # ADAM (Ambidextrous Domestic Autonomous Manipulator)
 
-The following sections contain comprehensive guides and documentation for the soft neck.
+ADAM is a robot designed to perform everyday tasks for people who have difficulties carrying out such tasks. To achieve this, ADAM is equipped with various sensors and actuators that allow it to understand its surroundings and interact with them, giving it direct utility in the actions it can perform. For these processes, ADAM aims to be a development and coordination platform between different modules that enable its use in novel environments. The main research areas with ADAM are:
 
-* [ADAM v1.0](ADAM_v1.0.md)
+[**Navigation**](../Navigation/demo.md): ADAM is capable of moving autonomously in indoor environments, avoiding obstacles and reaching the desired location. The main lines of research are:
+- Localiziation: ADAM is equipped with sensors that allow it to know its position in the environment.
+
+[**Vision**](../Vision/demo.md): ADAM is equipped with cameras and LIDAR sensors that allow it to perceive its surroundings and interact with them.
+
+[**Manipulation**]((../Manipulation/demo.md)): ADAM has two robotic arms that allows it to interact with objects in its environment.
+
+**Grasping**: ADAM has a gripper that allows it to grasp objects and manipulate them.
+
+**Simulation** ADA is equipped with a simulation environment that allows it to test its algorithms in a virtual environment before deploying them in the real world.
+
+[![adam all](../fig/AdamCapa.png)](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1337608/full)
+
+
+### *Versions of ADAM*
+* [ADAM v1.0](ADAM_v1.0.md): Our first aproximation, used until September 2024. The robot in which the first algorithms and tests were made.
+* [ADAM v2.0](ADAM_v2.0.md): New adaptation developed to solve some design issues and to improve the robot's capabilities. Model used from September 2024 onwards.
 
 #### List of publications:
  
 
-Designed by since [2018](https://ruc.udc.es/dspace/bitstream/handle/2183/24937/2018_Luis_Nagua_A_first_approach_to_a_proposal_of_a_soft_robotic.pdf?sequence=3&isAllowed=y). The current version of this platform was presented along with an approach for the system identification using MLP techniques in [2022](https://www.researchgate.net/profile/Luis-Nagua-2/publication/365628027_IDENTIFICACION_DE_UN_CUELLO_ROBOTICO_BLANDO_MEDIANTE_APRENDIZAJE_AUTOMATICO/links/637bdd4f37878b3e87ccf019/IDENTIFICACION-DE-UN-CUELLO-ROBOTICO-BLANDO-MEDIANTE-APRENDIZAJE-AUTOMATICO.pdf). Further research on this robotic platform as well as the soft arm can be found [here](https://scholar.google.es/citations?hl=es&user=I6NYnWIAAAAJ&view_op=list_works&sortby=pubdate). 
-
-Documentation of these researchs can be found both in [Humasoft](https://github.com/HUMASoft/soft-neck-control) and [SofIA](https://gitlab.com/uc3m-sofia/soft-neck-control) Gitlab and Github repositories.
-
-![soft_neck](../fig/soft_neck.jpg)
