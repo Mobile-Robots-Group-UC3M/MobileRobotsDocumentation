@@ -1,4 +1,4 @@
-site_name: Mobile Robotics Developer Manual
+site_name: Mobile Robotics Oficial Site
 
 repo_name: Mobile-Robots-Group-UC3M/MobileRobotsDocumentation
 repo_url: https://github.com/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation
@@ -56,9 +56,9 @@ exclude_docs: |
 nav:
 - Home: README.md
 #- Cognitive Architecture: architecture.md
-- Soft Neck:
-  - softneck/README.md
-  - Demo-Space Navigator: softneck/demo.md
+- ADAM:
+  - ADAM/README.md
+  - ADAM v1.0: ADAM/ADAM_v1.0.md
 - Soft Gripper:
   - softgripper/README.md
   - Demo: softgripper/demo.md

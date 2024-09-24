@@ -1,33 +1,33 @@
 [![roboticslab-uc3m logo](docs/fig/roboticslab-banner-350px.png)](https://github.com/roboticslab-uc3m)
 
-# Soft-Robotics Developer Manual
+# Mobile Robots Oficial Site
+Oficial site for the [Mobile Robotics](https://mobile-robots-group-uc3m.github.io/MobileRobotsDocumentation) research group of the [RoboticsLab](https://github.com/roboticslab-uc3m) belonging to the University Carlos III of Madrid.
+## *Welcome to the Mobile Robots Laboratory*
 
-Developer manual for the [Soft Robotics](http://roboticslab.uc3m.es/roboticslab/researchtopic/soft-robotics) research group at [roboticslab-uc3m](https://github.com/roboticslab-uc3m).
+In the *Mobile Robots Group*, we focus on developing robotics projects applied to real-world tasks, aiming to unify some of the main research areas in robotics, such as **navigation, vision, manipulation, and grasping**. To achieve this, we develop our own algorithms in this lab that allow us to operate in real environments, taking into account the surrounding elements and ensuring safe operations to assist people. Our main contributions are focused on indoor environments, specifically for tasks that help the elderly or dependent individuals. To carry out these tasks, we have our own platform, **ADAM (Ambidextrous Domestic Autonomous Manipulator)**, on which we base all our work and test it in real settings.
 
-Currently hosted at <https://robots.uc3m.es/soft-robotics-developer-manual/>
+## Latest News
 
-## If you have any doubts or comments
+### If you have any doubts or comments
 
-In case of doubts please feel free to create an issue [here](https://github.com/roboticslab-uc3m/soft-robotics-developer-manual/issues/new).
+In case of any questions or improvements to be made to this repository, feel free to comment on a [new issue](https://github.com/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation/issues).
 
+### License
+[![GitHub issues](https://img.shields.io/github/issues/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 
-### How to serve on localhost
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
+[![GitHub pull-requests-closed](https://img.shields.io/github/issues-pr-closed/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 
-When modifying the website it is useful to first test the changes locally. This can be done by opening and refreshing the website **index.html** generated inside the file folder [RECOMMENDED] or by serving on `localhost`. The latter can be done by following these steps:
+[![License](https://img.shields.io/github/license/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)](https://opensource.org/licenses/LGPL-2.1)
 
-1. From the root of the project, run the following command:
+[![Contributors](https://img.shields.io/github/contributors/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
+[![GitHub last-commit](https://img.shields.io/github/last-commit/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
+[![GitHub repo-size](https://img.shields.io/github/repo-size/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 
-   ```bash
-   pip install -r requirements.txt
-   mkdocs serve
-   ```
+[![GitHub language count](https://img.shields.io/github/languages/count/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
+[![GitHub top language](https://img.shields.io/github/languages/top/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 
-2. You can now browse the site at the default location: <http://127.0.0.1:8000>
+[![GitHub release-date](https://img.shields.io/github/release-date/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
+[![GitHub last-commit](https://img.shields.io/github/last-commit/Mobile-Robots-Group-UC3M/MobileRobotsDocumentation.svg)]()
 
-### How to upload changes to GitHub
-
-This project is managed as any project on [GitHub](https://www.github.com). You may use [Git](https://git-scm.com) or even the GitHub web interface, both on which you can find many tutorials online. The following points are specific to the MkDocs mechanism used:
-
-1. Please **do not upload** the `site/` folder. It is auto-generated locally, and the same should happen on the MkDocs servers.
-
-1. It is safe to `git push` to any upstream branch, just remember that what is on `master` is what will be actually rendered as the website.
