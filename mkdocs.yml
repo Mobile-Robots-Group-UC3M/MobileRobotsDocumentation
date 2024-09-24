@@ -63,9 +63,7 @@ nav:
 - Navigation: Navigation/demo.md
 - Vision: Vision/demo.md
 - Manipulation: Manipulation/demo.md
-- Roberto:
-  - roberto/README.md
-  - Demo: roberto/demo.md
+- Grasping: Grasping/demo.md
 - MOCAP:
   - mocap/README.md
   - Demo: mocap/demo.md
