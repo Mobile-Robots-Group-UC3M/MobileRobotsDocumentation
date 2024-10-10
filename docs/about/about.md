@@ -2,12 +2,26 @@
 The group is composed of various PhD candidates, master's students, and doctors who are responsible for developing the different algorithms and tasks on our robot to perform various operations in real-world environments. The group is led by the following people:
 
 ## *Group Leaders*
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<!-- <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <a href="http://roboticslab.uc3m.es/roboticslab/people/r-barber" target="_blank">
-    <img src="../fig/Ramon.jpg" alt="SantiagoImage" style="margin-right: 190px; width: 170" />
+    <img src="../fig/Ramon.jpg" alt="RamonImage" style="margin-right: 190px; width: 170" />
   </a>
   <p style="max-width: 70%;"><strong>Ramón Barber</strong> is an Associate Professor of the System Engineering and Automation Department, at the University Carlos III of Madrid, Spain. He received the B.Sc. degree in Industrial Engineering from Polytechnic University of Madrid (1995), and the Ph. D. degree in Industrial Technologies from the University Carlos III (2000). His research topics are focused on Mobile Robotics including perception of the environment, environment modelling, planning, localization and navigation tasks, considering geometrical, topological and semantic representations. He is a member of the International Federation of Automatic Control (IFAC) and of the IEEE.</p>
+</div> -->
+
+<div style="float: left; margin-right: 20px;">
+  <a href="http://roboticslab.uc3m.es/roboticslab/people/r-barber" target="_blank">
+    <img src="../fig/Ramon.jpg" alt="RamonImage" style="width: 170px;" />
+  </a>
+  <!-- Enlace debajo de la imagen -->
+  <a href="http://roboticslab.uc3m.es" target="_blank" style="display: block; text-align: center; margin-top: 10px;">Más información</a>
 </div>
+
+<!-- Texto que estará al lado de la imagen -->
+<p style="overflow: hidden;">
+  <strong>Ramón Barber</strong> is an Associate Professor of the System Engineering and Automation Department, at the University Carlos III of Madrid, Spain. He received the B.Sc. degree in Industrial Engineering from Polytechnic University of Madrid (1995), and the Ph. D. degree in Industrial Technologies from the University Carlos III (2000). His research topics are focused on Mobile Robotics including perception of the environment, environment modelling, planning, localization and navigation tasks, considering geometrical, topological and semantic representations. He is a member of the International Federation of Automatic Control (IFAC) and of the IEEE.
+</p>
+
 
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
