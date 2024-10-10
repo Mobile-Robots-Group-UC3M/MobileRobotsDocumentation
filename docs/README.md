@@ -12,7 +12,7 @@ In the *Mobile Robots Group*, we focus on developing robotics projects applied t
 
 ## *Latest News*
 - **24/09/2024**: We have updated the [**ADAM**](./ADAM/) section with the latest information on the robot's capabilities and the new features that have been added to it.
-- **04/09/2024** The Robotics Group assisted to the [**Jornadas de Automátcia 2024**](https://jautomatica.uma.es/) conference, where we presented our latest research on the development of a modular gripper for our robot ADAM and an innovative learning-from-demonstration technique for sweeping tasks with limited human data. The papers are:
+- **04/09/2024** The Robotics Group assisted to the [**Jornadas de Automática 2024**](https://jautomatica.uma.es/) conference, where we presented our latest research on the development of a modular gripper for our robot ADAM and an innovative learning-from-demonstration technique for sweeping tasks with limited human data. The papers are:
   - [**Educational and research platform with a modular parallel jaw gripper**](https://www.researchgate.net/publication/382820563_Plataforma_educativa_y_de_investigacion_con_pinza_paralela_modular).
   - [**Learning from demonstration through synthetic data for parameterized tasks**](https://www.researchgate.net/publication/382817809_Aprendizaje_por_demostracion_mediante_datos_sinteticos_para_tareas_parametrizadas).
 
