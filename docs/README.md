@@ -16,6 +16,12 @@ In the *Mobile Robots Group*, we focus on developing robotics projects applied t
   - [**Educational and research platform with a modular parallel jaw gripper**](https://www.researchgate.net/publication/382820563_Plataforma_educativa_y_de_investigacion_con_pinza_paralela_modular).
   - [**Learning from demonstration through synthetic data for parameterized tasks**](https://www.researchgate.net/publication/382817809_Aprendizaje_por_demostracion_mediante_datos_sinteticos_para_tareas_parametrizadas).
 
+## *Group of researchers*
+The Mobile Robots Group is composed of a team of researchers with different backgrounds and expertise in robotics. The team is composed by the members presented in [**about us**](./about/about.md).
+
+<p align="center">
+  <img src="fig/FotoGrupo.jpeg" style="max-width: auto; height: auto;" />
+</p>
 
 ### *If you have any doubts or comments*
 
