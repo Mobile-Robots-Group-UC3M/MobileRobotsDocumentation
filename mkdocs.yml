@@ -65,6 +65,7 @@ nav:
 - Manipulation: Manipulation/demo.md
 - Grasping: Grasping/demo.md
 - Simulation: Simulation/demo.md
+- Hardware: Hardware/demo.md
 
 use_directory_urls: false
 
