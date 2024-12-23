@@ -38,7 +38,7 @@ The domestic environment is modeled as a 3x3 matrix $A$ divided into cells $(a_{
 
 This process is divided in two steps:
 
-* **Random selection of room:** The first part of the method consists on the random selection of room models for each type of room. To generate our environments, each type of room is generated once. Table~\ref{tab:room_types} shows the different room types with their default \textit{connection} vectors to adjacent rooms at $\theta_{i,j} = 0$. Note that type 4 rooms that correspond to living room models are described as large rooms. This type of room occupies two adjacent areas (cells) in any orientation, i.e., $(a_{i,j},a_{i+1,j})$ or $(a_{i,j},a_{i,j+1})$. Type 5 room models are designated to be the center area with fixed position $a_{1,1}$.
+* **Random selection of room:** The first part of the method consists on the random selection of room models for each type of room. To generate our environments, each type of room is generated once. Table below shows the different room types with their default \textit{connection} vectors to adjacent rooms at $(\theta_{i,j} = 0)$. Note that type 4 rooms that correspond to living room models are described as large rooms. This type of room occupies two adjacent areas (cells) in any orientation, i.e., $(a_{i,j},a_{i+1,j})$ or $(a_{i,j},a_{i,j+1})$. Type 5 room models are designated to be the center area with fixed position $(a_{1,1})$.
 
 |**TYPE**|**DESCRIPTION**|**CONNECTIONS AT $\theta_{i,j}=0$**|
 |-------------------|----------------|------|
@@ -55,7 +55,7 @@ This process is divided in two steps:
 A set of $M_t$ distinct room models in CoppeliaSim are predefined for each room type $t$, so the probability of a model $m_{t,i}$ being selected for a certain type is $P(m_{t,i}|t) = \frac{1}{|M_t|}$. Figure~\ref{fig:example_rooms} shows an example of room models for side and corner rooms, oriented at $\theta = 0\;rad$ and located at the world origin. The result of this part is a set of unique room models identified by their room type $t$ initialized at default position, origin and connections.
 
 
-* **Random distribution of rooms:**  The second part of the method consist in the random distribution of the rooms shown in Algorithm~\ref{alg:random_rooms}. We define a vector $T_{1 \times 8}$ where each of its elements $T_t$ contains the randomly selected room model $m_{t}$ and its corresponding connections $C'_{i,j}$ for each room type $t=0,...,7$. The elements in $T$ are randomly shuffled and assigned to empty cells in the area distribution matrix $A = (a_{i,j})_{3\times 3}$ according to their room type. It is also ensured that the room connections $C'_{i,j}$ align with their corresponding cell connections (pointing to not out of bounds existing areas) and rotated otherwise with a rotation matrix $R_z(\pi/2)$ and $\theta_{i,j} = \theta_{i,j} + \pi/2 \;rad$. Other restrictions imposed are the location of the center room in cell $a_{1,1}$ and the assignation of two adjacent cells to large rooms as previously mentioned in this Section.
+* **Random distribution of rooms:**  The second part of the method consist in the random distribution of the rooms. We define a vector $(T_{1 \times 8})$ where each of its elements $T_t$ contains the randomly selected room model $(m_{t})$ and its corresponding connections $C'_{i,j}$ for each room type $(t=0,...,7)$. The elements in $T$ are randomly shuffled and assigned to empty cells in the area distribution matrix $A = (a_{i,j})_{3\times 3}$ according to their room type. It is also ensured that the room connections $C'_{i,j}$ align with their corresponding cell connections (pointing to not out of bounds existing areas) and rotated otherwise with a rotation matrix $R_z(\pi/2)$ and $\theta_{i,j} = \theta_{i,j} + \pi/2 \;rad$. Other restrictions imposed are the location of the center room in cell $a_{1,1}$ and the assignation of two adjacent cells to large rooms as previously mentioned in this Section.
 
 Having assigned the rooms to each area cell, the models are placed and oriented in the empty scene in CoppeliaSim to which the algorithm is connected. The models are placed at the coordinates given by $a_{i,j}$ times the room length of a cell $d = 5$ m and oriented at their corresponding angle $\theta_{i,j}$ with respect to the world's reference frame.
 
@@ -77,4 +77,7 @@ Several complete simulation environments have been generated where the rooms com
 
 [![environments](../fig/6.png)](https://ieeexplore.ieee.org/abstract/document/10535940)
 
-***
+## PAPER ASSOCIATED
+This work is fully presented in the following paper:
+
+**Data Generation in Simulated Domestic Environments for Assistive Robots**
