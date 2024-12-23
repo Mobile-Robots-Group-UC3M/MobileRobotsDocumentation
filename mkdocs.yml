@@ -64,7 +64,9 @@ nav:
 - Vision: Vision/demo.md
 - Manipulation: Manipulation/demo.md
 - Grasping: Grasping/demo.md
-- Simulation: Simulation/demo.md
+- Simulation: 
+  - Indoor Environments: Simulation/Indoor.md
+  - ADAM Simulator: Simulation/ADAMSim.md
 - Hardware: Hardware/demo.md
 
 use_directory_urls: false

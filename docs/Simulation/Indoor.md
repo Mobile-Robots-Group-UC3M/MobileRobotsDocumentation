@@ -8,20 +8,22 @@ A simulation of domestic environments has been developed in order to have a digi
 ## SIMULATORS
 
 The options available in terms of commercial simulators are very varied. Technological advances and constant change in the field mean that new simulators are appearing, while others are becoming obsolete. There is no guide that facilitates the selection of a suitable simulation tool for the specific needs of each researcher. Some of the most prominent simulators in the field of robotics are presented below, detailing their characteristics:
-|**SIMULATOR**|**CHRONOS**|**COPPELIASIM**|**GAZEBO**|**ISAAC**|**UNITY**|**WEBOTS**|
-|-------------------|----------------|------|------------|--------|-------|-------|
-|GPS|V|V|V|V|V|V|
-|LIDAR|V|V|V|V|V|V|
-|TRACKS|V|V|V|V|V|V|
-|WHEELS|V|V|V|V|V|V|
-|OMNI WHEELS|V|V|V|V|V|V|
-|HEIGHTMAP IMPORT|V|V|V|V|V|V|
-|OPENDRIVE|X|X|X|X|X|V|
-|OPENSTREETMAP|X|X|X|X|X|V|
-|PATHPLANNING|X|V|V|V|X|V|
-|ROS SUPPORT|X|V|V|V|X|V|
-|RGBD|V|V|V|V|V|V|
-|REALISTIC RENDERING|V|V|X|V|V|X|
+
+| **SIMULATOR**         | **CHRONOS** | **COPPELIASIM** | **GAZEBO** | **ISAAC** | **UNITY** | **WEBOTS** |
+|------------------------|-------------|-----------------|------------|-----------|-----------|------------|
+| **GPS**               | V           | V               | V          | V         | V         | V          |
+| **LIDAR**             | V           | V               | V          | V         | V         | V          |
+| **TRACKS**            | V           | V               | V          | V         | V         | V          |
+| **WHEELS**            | V           | V               | V          | V         | V         | V          |
+| **OMNI WHEELS**       | V           | V               | V          | V         | V         | V          |
+| **HEIGHTMAP IMPORT**  | V           | V               | V          | V         | V         | V          |
+| **OPENDRIVE**         | X           | X               | X          | X         | X         | V          |
+| **OPENSTREETMAP**     | X           | X               | X          | X         | X         | V          |
+| **PATHPLANNING**      | X           | V               | V          | V         | X         | V          |
+| **ROS SUPPORT**       | X           | V               | V          | V         | X         | V          |
+| **RGBD**              | V           | V               | V          | V         | V         | V          |
+| **REALISTIC RENDERING**| V           | V               | X          | V         | V         | X          |
+
 
 
 ## METHODOLOGY
