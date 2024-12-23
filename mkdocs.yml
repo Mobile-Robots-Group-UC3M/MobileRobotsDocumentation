@@ -50,7 +50,7 @@ extra:
       link: https://www.youtube.com/@MobileRobotsUC3M
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 
 exclude_docs: |
@@ -77,6 +77,7 @@ use_directory_urls: false
 
 markdown_extensions:
   - attr_list # for mkdocs-pdf
+  - mdx_math
   - toc:
       permalink: '#'
   - pymdownx.superfences:
