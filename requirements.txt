@@ -10,3 +10,4 @@ mkdocs-pdf
 mkdocs-table-reader-plugin
 pymdown-extensions
 python-markdown-math
+https://github.com/mitya57/python-markdown-math/archive/master.zip
