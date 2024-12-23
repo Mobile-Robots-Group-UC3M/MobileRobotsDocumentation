@@ -23,10 +23,10 @@ ADAM is a robot designed to perform everyday tasks for people who have difficult
 
 - Optimal Grasping Algorithms: Currently, optimal grasping algorithms are being developed for ADAM, taking into account the shape and pose of the object to be grasped.
 
-[**Simulation**](../Simulation/demo.md) ADAM is equipped with a simulation environment that allows it to test its algorithms in a virtual environment before deploying them in the real world.
+[**Simulation**](../Simulation/ADAMSim.md) ADAM is equipped with a simulation environment that allows it to test its algorithms in a virtual environment before deploying them in the real world.
 
-- Domestic Environment Simulation: ADAM has been implemented in CoppeliaSim for tasks requiring the simulation of domestic environments for synthetic dataset generation or indoor navigation testing.  
-- PyBullet Simulator: A Bullet-based simulator is being developed to realistically simulate the ADAM robot and establish a connection with the physical robot.
+- [Domestic Environment Simulation](../Simulation/Indoor.md): ADAM has been implemented in CoppeliaSim for tasks requiring the simulation of domestic environments for synthetic dataset generation or indoor navigation testing.  
+- [PyBullet Simulator](../Simulation/ADAMSim.md): A Bullet-based simulator is being developed to realistically simulate the ADAM robot and establish a connection with the physical robot.
 
 [**Hardware developments**](../Hardware/demo.md) ADAM has various modifications in its design to add functionalities as well as additional hardware components that enhance its performance.
 
