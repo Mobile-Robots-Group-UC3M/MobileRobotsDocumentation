@@ -9,3 +9,4 @@ mkdocs-mermaid2-plugin
 mkdocs-pdf
 mkdocs-table-reader-plugin
 pymdown-extensions
+mkdocs-python-markdown-math
