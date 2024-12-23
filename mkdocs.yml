@@ -77,7 +77,6 @@ use_directory_urls: false
 
 markdown_extensions:
   - attr_list # for mkdocs-pdf
-  - mdx_math
   - toc:
       permalink: '#'
   - pymdownx.superfences:
