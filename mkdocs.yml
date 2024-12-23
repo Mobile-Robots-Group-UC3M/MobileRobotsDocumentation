@@ -49,6 +49,10 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@MobileRobotsUC3M
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+
+
 exclude_docs: |
   fig/README.md
   fig/editable/README.md
