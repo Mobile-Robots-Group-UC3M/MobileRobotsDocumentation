@@ -67,6 +67,7 @@ nav:
 - Navigation: Navigation/demo.md
 - Vision: Vision/demo.md
 - Manipulation: Manipulation/demo.md
+  - Data Acquisition: Manipulation/DataAcquisition/dataAcq.md
 - Grasping: Grasping/demo.md
 - Simulation: 
   - Indoor Environments: Simulation/Indoor.md
