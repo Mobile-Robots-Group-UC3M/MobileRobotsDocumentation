@@ -79,4 +79,4 @@ Several complete simulation environments have been generated where the rooms com
 ## PAPER ASSOCIATED
 This work is fully presented in the following paper:
 
-**Data Generation in Simulated Domestic Environments for Assistive Robots**
+**[Data Generation in Simulated Domestic Environments for Assistive Robots](https://ieeexplore.ieee.org/document/10796919)**
