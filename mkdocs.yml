@@ -66,8 +66,9 @@ nav:
   - ADAM v2.0: ADAM/ADAM_v2.0.md
 - Navigation: Navigation/demo.md
 - Vision: Vision/demo.md
-- Manipulation: Manipulation/demo.md
-  - Data Acquisition: Manipulation/dataAcq.md
+- Manipulation: 
+  - Manipulation/demo.md
+  - Data Acquisition: Manipulation/datacq.md
 - Grasping: Grasping/demo.md
 - Simulation: 
   - Indoor Environments: Simulation/Indoor.md
