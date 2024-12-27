@@ -9,16 +9,19 @@ ADAM is a robot designed to perform everyday tasks for people who have difficult
 - Base movement: ADAM is capable of navigate through different environments using information from various levels of abstraction, such as geometric information, topological information, and semantic information.
 
 [**Vision**](../Vision/demo.md): ADAM is equipped with cameras and LIDAR sensors that allow it to perceive its surroundings and interact with them.
+
 - Environment Detection: ADAM is equipped with vision algorithms based on CNN (Convolutional Neural Networks) that allow it to detect different classes of objects for real-time tracking.
 
 - Synthetic Image Generation: ADAM has been endowed with an "imagination" capability that enables it to create new scenes without user interference.
 
-[**Manipulation**](../Manipulation/demo.md): ADAM has two robotic arms that allows it to interact with objects in its environment.
+[**Manipulation**](../Manipulation/ManOver.md): ADAM has two robotic arms that allows it to interact with objects in its environment.
+
 - Learning for Manipulation: ADAM utilizes various Learning from Demonstration (LfD) algorithms that allow it to learn directly from human information to solve everyday tasks.
 
 - Human Tracking Algorithms: ADAM is equipped with a human tracking algorithm that enables it to follow human movements and adjust its own movements in the most optimal way possible.
 
 [**Grasping**](../Grasping/demo.md): ADAM has a gripper that allows it to grasp objects and manipulate them.
+
 - Manipulator Claws: ADAM has two custom-developed claws designed for gripping processes, equipped with a graphical interface and force feedback sensors.
 
 - Optimal Grasping Algorithms: Currently, optimal grasping algorithms are being developed for ADAM, taking into account the shape and pose of the object to be grasped.
