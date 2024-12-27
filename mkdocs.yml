@@ -73,7 +73,9 @@ nav:
   - Fast Marching Learning Methods: Manipulation/fml.md
   - Gaussian Process Learning Methods: Manipulation/gps.md
   - Gaussian Mixtures Learning Methods: Manipulation/gmm.md
-- Grasping: Grasping/demo.md
+- Grasping: 
+  - Overview: Grasping/GraspOver.md
+  - Grasping with Learning from Demonstration: Grasping/LfDGrasp.md
 - Simulation: 
   - Indoor Environments: Simulation/Indoor.md
   - ADAM Simulator: Simulation/ADAMSim.md
