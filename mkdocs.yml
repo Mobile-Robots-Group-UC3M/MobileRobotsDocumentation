@@ -15,6 +15,7 @@ theme:
     - content.code.copy
     - navigation.footer
     - navigation.indexes
+    - navigation.expand
     - navigation.sections
     - navigation.top
     - navigation.tracking
@@ -61,13 +62,13 @@ nav:
 - Home: README.md
 - About Us: about/about.md
 - ADAM:
-  - ADAM/README.md
+  - Overview ADAM: ADAM/README.md
   - ADAM v1.0: ADAM/ADAM_v1.0.md
   - ADAM v2.0: ADAM/ADAM_v2.0.md
 - Navigation: Navigation/demo.md
 - Vision: Vision/demo.md
 - Manipulation: 
-  - Manipulation/README.md
+  - Overview Manipulation: Manipulation/README.md
   - Data Acquisition: Manipulation/datacq.md
   - Fast Marching Learning Methods: Manipulation/fml.md
   - Gaussian Process Learning Methods: Manipulation/gps.md
