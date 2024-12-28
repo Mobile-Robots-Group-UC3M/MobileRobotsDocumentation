@@ -75,7 +75,7 @@ nav:
   - Gaussian Mixtures Learning Methods: Manipulation/gmm.md
 - Grasping: 
   - Overview: Grasping/GraspOver.md
-  - Grasping with Learning from Demonstration: Grasping/LfDGrasp.md
+  - Grasping with Learning from Demonstration: Grasping/LfdGrasp.md
 - Simulation: 
   - Indoor Environments: Simulation/Indoor.md
   - ADAM Simulator: Simulation/ADAMSim.md
