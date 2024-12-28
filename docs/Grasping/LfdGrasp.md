@@ -1,1 +1,1 @@
-# In work :construction_worker: :construction:
+# Grasping with LfD algorithms
