@@ -14,17 +14,17 @@ ADAM is a robot designed to perform everyday tasks for people who have difficult
 
 - Synthetic Image Generation: ADAM has been endowed with an "imagination" capability that enables it to create new scenes without user interference.
 
-[**Manipulation**](../Manipulation/ManOver.md): ADAM has two robotic arms that allows it to interact with objects in its environment.
+[**Manipulation**](../Manipulation/fml.md): ADAM has two robotic arms that allows it to interact with objects in its environment.
 
-- Learning for Manipulation: ADAM utilizes various Learning from Demonstration (LfD) algorithms that allow it to learn directly from human information to solve everyday tasks.
+- [Learning for Manipulation](../Manipulation/gmm.md): ADAM utilizes various Learning from Demonstration (LfD) algorithms that allow it to learn directly from human information to solve everyday tasks. For this purpose, various algorithms based on different LfD techniques have been developed to directly deploy on the ADAM robot and learn to perform manipulation tasks using human information.
 
-- Human Tracking Algorithms: ADAM is equipped with a human tracking algorithm that enables it to follow human movements and adjust its own movements in the most optimal way possible.
+- [Human Tracking Algorithms]((../Manipulation/datacq.md)): ADAM is equipped with a human tracking algorithm that enables it to follow human movements and adjust its own movements in the most optimal way possible. It also has other algorithms that enable it to autonomously learn to break down complex tasks into simpler ones.
 
-[**Grasping**](../Grasping/demo.md): ADAM has a gripper that allows it to grasp objects and manipulate them.
+[**Grasping**](../Grasping/GraspOver.md): ADAM has a gripper and a robotic hand that allows it to grasp objects and manipulate them.
 
 - Manipulator Claws: ADAM has two custom-developed claws designed for gripping processes, equipped with a graphical interface and force feedback sensors.
 
-- Optimal Grasping Algorithms: Currently, optimal grasping algorithms are being developed for ADAM, taking into account the shape and pose of the object to be grasped.
+- Optimal Grasping Algorithms: Currently, optimal grasping algorithms are being developed for ADAM, taking into account the shape and pose of the object to be grasped. For this process, various types of algorithms and techniques have been developed, based on classical optimization processes as well as learning techniques.
 
 [**Simulation**](../Simulation/ADAMSim.md) ADAM is equipped with a simulation environment that allows it to test its algorithms in a virtual environment before deploying them in the real world.
 
